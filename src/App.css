@@ -1,0 +1,22 @@
+.App {
+  display: flex;
+  height: 100vh;
+  /* background-color: aqua; Adjust the height as needed */
+}
+
+/* Define styles for each division */
+.Division {
+  flex: 1;
+  /* background-color: blueviolet; */
+  /* Add any specific styling you want for each division */
+}
+
+.icon-span {
+  position: absolute;
+  right: 12px;
+  top: 0;
+  bottom: 0;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
